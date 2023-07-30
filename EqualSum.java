@@ -1,4 +1,4 @@
-public class EqualSumPartition {
+public class EqualSum{
     public static boolean canPartition(int[] nums) {
         int sum=0;
         int N = nums.length;
